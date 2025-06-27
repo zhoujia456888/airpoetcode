@@ -4,6 +4,7 @@
 
 感谢DeepSeek。全程由DeepSeek书写。
 
+[机场码Json文件](https://github.com/zhoujia456888/airpoetcode/blob/master/airports_china.json)
 
 [中国机场三字代码/四字码内容网址](https://jichang.todaynav.com/jichang_China.html)
 
