@@ -7,4 +7,4 @@
 [中国机场三字代码/四字码内容网址](https://jichang.todaynav.com/jichang_China.html)
 
 ## 截图
-<img src="test.png" width="400">>
+<img src="test.png" width="800">
