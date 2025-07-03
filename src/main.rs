@@ -4,13 +4,21 @@ use serde::Serialize;
 use std::error::Error;
 use std::fs::File;
 use std::io::Write;
+use regex::Regex;
 
 #[derive(Debug, Serialize)]
 struct Airport {
     name: String,
+    chinese_name:String,
     iata_code: String,
     icao_code: String,
     location: String,
+}
+
+fn clean_name(name: &str) -> String {
+    // 创建正则表达式匹配括号及其内容
+    let re = Regex::new(r"\([^)]*\)|\[[^]]*\]|\{[^}]*\}").unwrap();
+    re.replace_all(name, "").to_string()
 }
 
 fn main() -> Result<(), Box<dyn Error>> {
@@ -41,12 +49,14 @@ fn main() -> Result<(), Box<dyn Error>> {
 
             if cells.len() >= 4 {
                 let name = cells[0].text().collect::<String>().trim().to_string();
+                let chinese_name = clean_name(&*name);
                 let iata_code = cells[1].text().collect::<String>().trim().to_string();
                 let icao_code = cells[2].text().collect::<String>().trim().to_string();
                 let location = cells[3].text().collect::<String>().trim().to_string();
 
                 airports.push(Airport {
                     name,
+                    chinese_name,
                     iata_code,
                     icao_code,
                     location,

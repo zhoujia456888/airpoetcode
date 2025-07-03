@@ -1,1494 +1,1743 @@
 [
   {
     "name": "北海福城机场(Beihai Fucheng Airport)",
+    "chinese_name": "北海福城机场",
     "iata_code": "BHY",
     "icao_code": "ZGBH",
     "location": "北海"
   },
   {
     "name": "张家界荷花国际机场(Zhangjiajie Hehua International Airport)",
+    "chinese_name": "张家界荷花国际机场",
     "iata_code": "DYG",
     "icao_code": "ZGDY",
     "location": "张家界"
   },
   {
     "name": "阿尔泰机场(Altay)",
+    "chinese_name": "阿尔泰机场",
     "iata_code": "AAT",
     "icao_code": "ZWAT",
     "location": "阿尔泰"
   },
   {
     "name": "迪庆香格里拉机场(Di qing Shangri-La)",
+    "chinese_name": "迪庆香格里拉机场",
     "iata_code": "DIG",
     "icao_code": "ZPDQ",
     "location": "香格里拉"
   },
   {
     "name": "重庆大足登云机场(Chongqing Dazu Dengyun Airport)",
+    "chinese_name": "重庆大足登云机场",
     "iata_code": "DZU",
     "icao_code": "ZUDZ",
     "location": "大足"
   },
   {
     "name": "抚远东极机场(Fuyuan dongji)",
+    "chinese_name": "抚远东极机场",
     "iata_code": "FYJ",
     "icao_code": "",
     "location": "抚远"
   },
   {
     "name": "富蕴机场(Fuyun)",
+    "chinese_name": "富蕴机场",
     "iata_code": "FYN",
     "icao_code": "ZWFY",
     "location": "富蕴"
   },
   {
     "name": "广州白云国际机场(Guangzhou Baiyun International Airport)",
+    "chinese_name": "广州白云国际机场",
     "iata_code": "CAN",
     "icao_code": "ZGGG",
     "location": "广州"
   },
   {
     "name": "北京机场(Beijing)",
+    "chinese_name": "北京机场",
     "iata_code": "BJS",
     "icao_code": "",
     "location": "北京"
   },
   {
     "name": "兴义机场(Xingyi)",
+    "chinese_name": "兴义机场",
     "iata_code": "ACX",
     "icao_code": "ZUYI",
     "location": "兴义"
   },
   {
     "name": "长沙黄花国际机场(Changsha Huanghua International Airport)",
+    "chinese_name": "长沙黄花国际机场",
     "iata_code": "CSX",
     "icao_code": "ZGCS",
     "location": "长沙"
   },
   {
     "name": "大连周水子国际机场(Dalian Zhoushuizi International Airport)",
+    "chinese_name": "大连周水子国际机场",
     "iata_code": "DLC",
     "icao_code": "ZYTL",
     "location": "大连"
   },
   {
     "name": "成都双流国际机场(Chengdu Shuangliu International Airport.)",
+    "chinese_name": "成都双流国际机场",
     "iata_code": "CTU",
     "icao_code": "ZUUU",
     "location": "成都"
   },
   {
     "name": "大理机场(Dali Airport)",
+    "chinese_name": "大理机场",
     "iata_code": "DLU",
     "icao_code": "",
     "location": "大理"
   },
   {
     "name": "右江机场(Youjiang)",
+    "chinese_name": "右江机场",
     "iata_code": "AEB",
     "icao_code": "ZGBS",
     "location": "百色市"
   },
   {
     "name": "敦煌机场(Dunhuang)",
+    "chinese_name": "敦煌机场",
     "iata_code": "DNH",
     "icao_code": "ZLDH",
     "location": "敦煌"
   },
   {
     "name": "阿拉善左旗机场(Alxa Left Banner)",
+    "chinese_name": "阿拉善左旗机场",
     "iata_code": "AXF",
     "icao_code": "",
     "location": "阿拉善左旗"
   },
   {
     "name": "成都机场(Chengdu Airport)",
+    "chinese_name": "成都机场",
     "iata_code": "GDU",
     "icao_code": "ZUUU",
     "location": "成都"
   },
   {
     "name": "东营胜利机场(Shengli)",
+    "chinese_name": "东营胜利机场",
     "iata_code": "DOY",
     "icao_code": "ZSDY",
     "location": "东营"
   },
   {
     "name": "安阳机场(Anyang)",
+    "chinese_name": "安阳机场",
     "iata_code": "AYN",
     "icao_code": "ZHAY",
     "location": "安阳"
   },
   {
     "name": "阿坝红原机场(Aba/Hongyuan)",
+    "chinese_name": "阿坝红原机场",
     "iata_code": "AHJ",
     "icao_code": "",
     "location": "阿坝/红原"
   },
   {
     "name": "石家庄正定国际机场(Shijiazhuang Zhengding International Airport)",
+    "chinese_name": "石家庄正定国际机场",
     "iata_code": "AZH",
     "icao_code": "ZBSJ",
     "location": "石家庄"
   },
   {
     "name": "萨尔图机场(Sartu)",
+    "chinese_name": "萨尔图机场",
     "iata_code": "DQA",
     "icao_code": "ZYDQ",
     "location": "大庆"
   },
   {
     "name": "重庆大足登云机场(Dazu)",
+    "chinese_name": "重庆大足登云机场",
     "iata_code": "AZU",
     "icao_code": "ZUDZ",
     "location": "大足"
   },
   {
     "name": "福州长乐国际机场(Fuzhou Changle International Airport)",
+    "chinese_name": "福州长乐国际机场",
     "iata_code": "FOC",
     "icao_code": "ZSFZ",
     "location": "福州"
   },
   {
     "name": "额济纳旗机场(Ejina Banner)",
+    "chinese_name": "额济纳旗机场",
     "iata_code": "EJN",
     "icao_code": "",
     "location": "额济纳旗"
   },
   {
     "name": "广汉机场(Guanghan)",
+    "chinese_name": "广汉机场",
     "iata_code": "GHN",
     "icao_code": "ZUGH",
     "location": "广汉"
   },
   {
     "name": "包头机场(Baotou Erliban Airport)",
+    "chinese_name": "包头机场",
     "iata_code": "BAV",
     "icao_code": "ZBOW",
     "location": "包头"
   },
   {
     "name": "鄂尔多斯机场(Ordos Ejin Horo Internatinal Airport)",
+    "chinese_name": "鄂尔多斯机场",
     "iata_code": "DSN",
     "icao_code": "ZBDS",
     "location": "鄂尔多斯"
   },
   {
     "name": "秦皇岛北戴河机场(Qinhuangdao beidaihe international)",
+    "chinese_name": "秦皇岛北戴河机场",
     "iata_code": "BPE",
     "icao_code": "ZBDH",
     "location": "秦皇岛"
   },
   {
     "name": "东沙群岛机场(Dongsha Island)",
+    "chinese_name": "东沙群岛机场",
     "iata_code": "DSX",
     "icao_code": "",
     "location": "东沙群岛"
   },
   {
     "name": "阿克苏机场(Aksu)",
+    "chinese_name": "阿克苏机场",
     "iata_code": "AKU",
     "icao_code": "ZWAK",
     "location": "阿克苏"
   },
   {
     "name": "阿拉山口机场(Alashankou)",
+    "chinese_name": "阿拉山口机场",
     "iata_code": "BPL",
     "icao_code": "ZWBL",
     "location": "勃乐"
   },
   {
     "name": "常德机场(Changde)",
+    "chinese_name": "常德机场",
     "iata_code": "CGD",
     "icao_code": "ZGCD",
     "location": "常德"
   },
   {
     "name": "郑州新郑国际机场(Zhengzhou Xinzheng International Airport)",
+    "chinese_name": "郑州新郑国际机场",
     "iata_code": "CGO",
     "icao_code": "ZHCC",
     "location": "郑州"
   },
   {
     "name": "长春龙嘉国际机场(Changchun Longjia International Airport)",
+    "chinese_name": "长春龙嘉国际机场",
     "iata_code": "CGQ",
     "icao_code": "ZYCC",
     "location": "长春"
   },
   {
     "name": "昌都邦达机场(Qamdo Bangda Airport)",
+    "chinese_name": "昌都邦达机场",
     "iata_code": "BPX",
     "icao_code": "ZUBD",
     "location": "昌都"
   },
   {
     "name": "朝阳机场(Chaoyang)",
+    "chinese_name": "朝阳机场",
     "iata_code": "CHG",
     "icao_code": "ZYCY",
     "location": "朝阳"
   },
   {
     "name": "常州机场(Changzhou)",
+    "chinese_name": "常州机场",
     "iata_code": "CZX",
     "icao_code": "ZSCG",
     "location": "常州"
   },
   {
     "name": "大同机场(Datong)",
+    "chinese_name": "大同机场",
     "iata_code": "DAT",
     "icao_code": "ZBDT",
     "location": "大同"
   },
   {
     "name": "达州河市机场(DaZhou heshi Airport)",
+    "chinese_name": "达州河市机场",
     "iata_code": "DAX",
     "icao_code": "ZUDX",
     "location": "达州"
   },
   {
     "name": "赤峰玉龙机场(Chifeng Yulong Airport)",
+    "chinese_name": "赤峰玉龙机场",
     "iata_code": "CIF",
     "icao_code": "ZBCF",
     "location": "赤峰"
   },
   {
     "name": "长治机场(Changzhi)",
+    "chinese_name": "长治机场",
     "iata_code": "CIH",
     "icao_code": "ZBCZ",
     "location": "长治"
   },
   {
     "name": "恩施机场(Enshi)",
+    "chinese_name": "恩施机场",
     "iata_code": "ENH",
     "icao_code": "ZHES",
     "location": "恩施"
   },
   {
     "name": "保山云瑞机场(Baoshan Yunrui Airport)",
+    "chinese_name": "保山云瑞机场",
     "iata_code": "BSD",
     "icao_code": "ZPBS",
     "location": "保山"
   },
   {
     "name": "鞍山机场(Anshan AB)",
+    "chinese_name": "鞍山机场",
     "iata_code": "AOG",
     "icao_code": "ZYAS",
     "location": "鞍山"
   },
   {
     "name": "阜阳机场(Fuyang Airport)",
+    "chinese_name": "阜阳机场",
     "iata_code": "FUG",
     "icao_code": "ZSFY",
     "location": "阜阳"
   },
   {
     "name": "延安机场(Yanan)",
+    "chinese_name": "延安机场",
     "iata_code": "ENY",
     "icao_code": "ZLYA",
     "location": "延安"
   },
   {
     "name": "稻城亚丁机场(Aden Daocheng Airport)",
+    "chinese_name": "稻城亚丁机场",
     "iata_code": "DCY",
     "icao_code": "",
     "location": "稻城"
   },
   {
     "name": "佛山沙堤机场(Shadi)",
+    "chinese_name": "佛山沙堤机场",
     "iata_code": "FUO",
     "icao_code": "ZGFS",
     "location": "佛山"
   },
   {
     "name": "丹东浪头机场(Dandong Langtou Airport)",
+    "chinese_name": "丹东浪头机场",
     "iata_code": "DDG",
     "icao_code": "ZYDD",
     "location": "丹东"
   },
   {
     "name": "福州长乐国际机场(Fuzhou Changle International Airport)",
+    "chinese_name": "福州长乐国际机场",
     "iata_code": "FUZ",
     "icao_code": "ZSFZ",
     "location": "福州"
   },
   {
     "name": "格尔木机场(Golmud)",
+    "chinese_name": "格尔木机场",
     "iata_code": "GOQ",
     "icao_code": "ZLGM",
     "location": "格尔木"
   },
   {
     "name": "黑河机场(Heihe)",
+    "chinese_name": "黑河机场",
     "iata_code": "HEK",
     "icao_code": "ZYHE",
     "location": "黑河"
   },
   {
     "name": "重庆江北国际机场(Chongqing Jiangbei International Airport)",
+    "chinese_name": "重庆江北国际机场",
     "iata_code": "CKG",
     "icao_code": "ZUCK",
     "location": "重庆"
   },
   {
     "name": "呼和浩特白塔国际机场(Hohhot Baita International Airport)",
+    "chinese_name": "呼和浩特白塔国际机场",
     "iata_code": "HET",
     "icao_code": "ZBHH",
     "location": "呼和浩特"
   },
   {
     "name": "蚌埠机场(Bengbu)",
+    "chinese_name": "蚌埠机场",
     "iata_code": "BFU",
     "icao_code": "ZSBB",
     "location": "蚌埠"
   },
   {
     "name": "合肥新桥国际机场(Hefei Xinqiao International Airport)",
+    "chinese_name": "合肥新桥国际机场",
     "iata_code": "HFE",
     "icao_code": "ZSOF",
     "location": "合肥"
   },
   {
     "name": "安庆机场(anqing)",
+    "chinese_name": "安庆机场",
     "iata_code": "AQG",
     "icao_code": "ZSAQ",
     "location": "安庆"
   },
   {
     "name": "银川河东国际机场(Yinchuan Hedong International Airport)",
+    "chinese_name": "银川河东国际机场",
     "iata_code": "INC",
     "icao_code": "ZLIC",
     "location": "银川"
   },
   {
     "name": "重庆江北国际机场(Chongqing Jiangbei International Airport)",
+    "chinese_name": "重庆江北国际机场",
     "iata_code": "GQI",
     "icao_code": "ZUCK",
     "location": "重庆"
   },
   {
     "name": "杭州萧山国际机场(Hangzhou Xiaoshan International Airport)",
+    "chinese_name": "杭州萧山国际机场",
     "iata_code": "HGH",
     "icao_code": "ZSHC",
     "location": "杭州"
   },
   {
     "name": "景德镇机场(Jingdezhen)",
+    "chinese_name": "景德镇机场",
     "iata_code": "JDZ",
     "icao_code": "ZSJD",
     "location": "景德镇"
   },
   {
     "name": "九华山机场(Jiuhuashan)",
+    "chinese_name": "九华山机场",
     "iata_code": "JUH",
     "icao_code": "",
     "location": "池州"
   },
   {
     "name": "德令哈机场(Delingha Airport)",
+    "chinese_name": "德令哈机场",
     "iata_code": "HXD",
     "icao_code": "",
     "location": "德令哈机场"
   },
   {
     "name": "黄花国际机场(Huanghua International Airport)",
+    "chinese_name": "黄花国际机场",
     "iata_code": "HHA",
     "icao_code": "ZGHA",
     "location": "长沙"
   },
   {
     "name": "呼和浩特白塔国际机场(Hohhot Baita International Airport)",
+    "chinese_name": "呼和浩特白塔国际机场",
     "iata_code": "HHO",
     "icao_code": "ZBHH",
     "location": "呼和浩特"
   },
   {
     "name": "台州路桥机场(Taizhou Luqiao Airport)",
+    "chinese_name": "台州路桥机场",
     "iata_code": "HYN",
     "icao_code": "ZSLQ",
     "location": "台州"
   },
   {
     "name": "衢州机场(Quzhou)",
+    "chinese_name": "衢州机场",
     "iata_code": "JUZ",
     "icao_code": "ZSJU",
     "location": "衢州"
   },
   {
     "name": "汉中机场(Hanzhong)",
+    "chinese_name": "汉中机场",
     "iata_code": "HZG",
     "icao_code": "ZLHZ",
     "location": "汉中"
   },
   {
     "name": "黎平机场(Liping)",
+    "chinese_name": "黎平机场",
     "iata_code": "HZH",
     "icao_code": "ZUNP",
     "location": "黎平"
   },
   {
     "name": "加格达奇机场(Jiagedaqi)",
+    "chinese_name": "加格达奇机场",
     "iata_code": "JGD",
     "icao_code": "",
     "location": "加格达奇"
   },
   {
     "name": "嘉峪关机场(Jiayuguan)",
+    "chinese_name": "嘉峪关机场",
     "iata_code": "JGN",
     "icao_code": "",
     "location": "嘉峪关"
   },
   {
     "name": "芷江机场(Zhijiang)",
+    "chinese_name": "芷江机场",
     "iata_code": "HJJ",
     "icao_code": "ZGCJ",
     "location": "怀化"
   },
   {
     "name": "且末机场(Qiemo)",
+    "chinese_name": "且末机场",
     "iata_code": "IQM",
     "icao_code": "ZWCM",
     "location": "且末"
   },
   {
     "name": "庆阳机场(Qingyang)",
+    "chinese_name": "庆阳机场",
     "iata_code": "IQN",
     "icao_code": "ZLQY",
     "location": "庆阳"
   },
   {
     "name": "西双版纳嘎洒国际机场(Xishuangbanna Gasa International Airport )",
+    "chinese_name": "西双版纳嘎洒国际机场",
     "iata_code": "JHG",
     "icao_code": "ZPJH",
     "location": "西双版纳"
   },
   {
     "name": "石家庄正定国际机场(Shijiazhuang Zhengding International Airport.)",
+    "chinese_name": "石家庄正定国际机场",
     "iata_code": "IAZ",
     "icao_code": "ZBSJ",
     "location": "石家庄"
   },
   {
     "name": "长海机场(Changhai)",
+    "chinese_name": "长海机场",
     "iata_code": "CNI",
     "icao_code": "ZYCH",
     "location": "大连"
   },
   {
     "name": "龙眼连城冠豸山机场(Guanzhishan)",
+    "chinese_name": "龙眼连城冠豸山机场",
     "iata_code": "LCX",
     "icao_code": "ZSLD",
     "location": "龙岩"
   },
   {
     "name": "昆明长水国际机场(Kunming Changshui International Airport)",
+    "chinese_name": "昆明长水国际机场",
     "iata_code": "KMG",
     "icao_code": "ZPPP",
     "location": "昆明"
   },
   {
     "name": "鸡西兴凯湖机场(Jixi Xingkai Lake Airport.)",
+    "chinese_name": "鸡西兴凯湖机场",
     "iata_code": "JXA",
     "icao_code": "",
     "location": "鸡西"
   },
   {
     "name": "金川机场(Jinchuan)",
+    "chinese_name": "金川机场",
     "iata_code": "JIC",
     "icao_code": "ZLJC",
     "location": "金川"
   },
   {
     "name": "呼伦贝尔海拉尔机场(Hailar Airport)",
+    "chinese_name": "呼伦贝尔海拉尔机场",
     "iata_code": "HLD",
     "icao_code": "ZBLA",
     "location": "海拉尔"
   },
   {
     "name": "乌兰浩特机场(Ulanhot)",
+    "chinese_name": "乌兰浩特机场",
     "iata_code": "HLH",
     "icao_code": "ZBUL",
     "location": "乌兰浩特"
   },
   {
     "name": "双吉机场(Jilin Airport)",
+    "chinese_name": "双吉机场",
     "iata_code": "JIL",
     "icao_code": "ZYJL",
     "location": "吉林"
   },
   {
     "name": "林都机场(Lindu)",
+    "chinese_name": "林都机场",
     "iata_code": "LDS",
     "icao_code": "ZYLD",
     "location": "伊春"
   },
   {
     "name": "武陵山机场(Wulingshan)",
+    "chinese_name": "武陵山机场",
     "iata_code": "JIQ",
     "icao_code": "",
     "location": "黔江"
   },
   {
     "name": "九江机场(Jiujiang)",
+    "chinese_name": "九江机场",
     "iata_code": "JIU",
     "icao_code": "ZSJJ",
     "location": "九江"
   },
   {
     "name": "九寨黄龙机场(Jiuzhai Huanglong)",
+    "chinese_name": "九寨黄龙机场",
     "iata_code": "JZH",
     "icao_code": "ZUJZ",
     "location": "九寨沟"
   },
   {
     "name": "哈密机场(Hami)",
+    "chinese_name": "哈密机场",
     "iata_code": "HMI",
     "icao_code": "ZWHM",
     "location": "哈密"
   },
   {
     "name": "泉州晋江国际机场(Quanzhou Jinjiang International Airport)",
+    "chinese_name": "泉州晋江国际机场",
     "iata_code": "JJN",
     "icao_code": "ZSQZ",
     "location": "泉州"
   },
   {
     "name": "赣州黄金国际机场(Ganzhou Gold International Airport)",
+    "chinese_name": "赣州黄金国际机场",
     "iata_code": "KOW",
     "icao_code": "ZSGZ",
     "location": "赣州"
   },
   {
     "name": "衡阳机场(Hengyang)",
+    "chinese_name": "衡阳机场",
     "iata_code": "HNY",
     "icao_code": "ZGHY",
     "location": "衡阳"
   },
   {
     "name": "临汾乔李机场(Linfen Qiaoli Airport)",
+    "chinese_name": "临汾乔李机场",
     "iata_code": "LFQ",
     "icao_code": "",
     "location": "临汾"
   },
   {
     "name": "酒泉南郊机场(Jiuquan.)",
+    "chinese_name": "酒泉南郊机场",
     "iata_code": "IUQ",
     "icao_code": "ZLJQ",
     "location": "酒泉机场"
   },
   {
     "name": "库车机场(Kuqa)",
+    "chinese_name": "库车机场",
     "iata_code": "KCA",
     "icao_code": "ZWKC",
     "location": "库车"
   },
   {
     "name": "芒市机场(Mangshi)",
+    "chinese_name": "芒市机场",
     "iata_code": "LUM",
     "icao_code": "ZPLX",
     "location": "芒市"
   },
   {
     "name": "神农架机场(ShenNongJia Airport)",
+    "chinese_name": "神农架机场",
     "iata_code": "HPG",
     "icao_code": "",
     "location": "神农架"
   },
   {
     "name": "九江庐山机场(Jiujiang Lushan Airport)",
+    "chinese_name": "九江庐山机场",
     "iata_code": "LUZ",
     "icao_code": "ZSLS",
     "location": "九江"
   },
   {
     "name": "盘龙机场(Panlong)",
+    "chinese_name": "盘龙机场",
     "iata_code": "GYS",
     "icao_code": "ZUGU",
     "location": "广元"
   },
   {
     "name": "六盘山机场(Liupanshan)",
+    "chinese_name": "六盘山机场",
     "iata_code": "GYU",
     "icao_code": "ZLGY",
     "location": "固原"
   },
   {
     "name": "佳木斯东郊机场(Jiamusi Dongjiao Airport)",
+    "chinese_name": "佳木斯东郊机场",
     "iata_code": "JMU",
     "icao_code": "ZYJM",
     "location": "佳木斯"
   },
   {
     "name": "济宁曲阜机场(Jining Qufu Airport)",
+    "chinese_name": "济宁曲阜机场",
     "iata_code": "JNG",
     "icao_code": "ZLJN",
     "location": "济宁"
   },
   {
     "name": "海口美兰国际机场(Haikou Meilan International Airport)",
+    "chinese_name": "海口美兰国际机场",
     "iata_code": "HAK",
     "icao_code": "ZJHK",
     "location": "海口"
   },
   {
     "name": "哈尔滨太平国际机场(Harbin Taiping International Airport)",
+    "chinese_name": "哈尔滨太平国际机场",
     "iata_code": "HRB",
     "icao_code": "ZYHB",
     "location": "哈尔滨"
   },
   {
     "name": "库尔勒机场(Korla)",
+    "chinese_name": "库尔勒机场",
     "iata_code": "KRL",
     "icao_code": "ZWKL",
     "location": "库尔勒"
   },
   {
     "name": "老河口机场(laohekou)",
+    "chinese_name": "老河口机场",
     "iata_code": "LHK",
     "icao_code": "ZHGH",
     "location": "老河口"
   },
   {
     "name": "拉萨贡嘎国际机场(Lhasa Kongga International Airport)",
+    "chinese_name": "拉萨贡嘎国际机场",
     "iata_code": "LXA",
     "icao_code": "ZULS",
     "location": "拉萨"
   },
   {
     "name": "兰州中川机场(Lanzhou Zhongchuan Airport)",
+    "chinese_name": "兰州中川机场",
     "iata_code": "LHW",
     "icao_code": "ZLAN",
     "location": "兰州"
   },
   {
     "name": "重庆梁平机场(chongqing liangping)",
+    "chinese_name": "重庆梁平机场",
     "iata_code": "LIA",
     "icao_code": "ZULP",
     "location": "梁平"
   },
   {
     "name": "克拉玛依机场(Karamay)",
+    "chinese_name": "克拉玛依机场",
     "iata_code": "KRY",
     "icao_code": "ZWKM",
     "location": "克拉玛依"
   },
   {
     "name": "锦州小岭子机场(Jinzhou Xiaolingzi Airport)",
+    "chinese_name": "锦州小岭子机场",
     "iata_code": "JNZ",
     "icao_code": "ZYJZ",
     "location": "锦州"
   },
   {
     "name": "韶关机场(Shaoguan)",
+    "chinese_name": "韶关机场",
     "iata_code": "HSC",
     "icao_code": "",
     "location": "韶关"
   },
   {
     "name": "洛阳机场(LuoYang Airport)",
+    "chinese_name": "洛阳机场",
     "iata_code": "LYA",
     "icao_code": "ZHLY",
     "location": "洛阳"
   },
   {
     "name": "郑州机场(Shangjie)",
+    "chinese_name": "郑州机场",
     "iata_code": "HSJ",
     "icao_code": "",
     "location": "郑州"
   },
   {
     "name": "舟山机场(Zhoushan)",
+    "chinese_name": "舟山机场",
     "iata_code": "HSN",
     "icao_code": "ZSZS",
     "location": "舟山"
   },
   {
     "name": "连云港机场(Lianyungang)",
+    "chinese_name": "连云港机场",
     "iata_code": "LYG",
     "icao_code": "ZSLG",
     "location": "连云港"
   },
   {
     "name": "河池金城江机场(Jin Cheng Jiang AIRPORT)",
+    "chinese_name": "河池金城江机场",
     "iata_code": "HCJ",
     "icao_code": "",
     "location": "河池"
   },
   {
     "name": "临沂机场(Linyi Airport)",
+    "chinese_name": "临沂机场",
     "iata_code": "LYI",
     "icao_code": "ZSLY",
     "location": "临沂"
   },
   {
     "name": "邯郸机场(Handan)",
+    "chinese_name": "邯郸机场",
     "iata_code": "HDG",
     "icao_code": "ZBHD",
     "location": "邯郸"
   },
   {
     "name": "丽江三义国际机场(Lijiang Sanyi International Airport)",
+    "chinese_name": "丽江三义国际机场",
     "iata_code": "LJG",
     "icao_code": "ZPLJ",
     "location": "丽江"
   },
   {
     "name": "喀什机场(KaShi Airport)",
+    "chinese_name": "喀什机场",
     "iata_code": "KHG",
     "icao_code": "ZWSH",
     "location": "喀什"
   },
   {
     "name": "兰州东岗机场(Lanzhou Donggang Airport)",
+    "chinese_name": "兰州东岗机场",
     "iata_code": "LZD",
     "icao_code": "ZLLD",
     "location": "兰州"
   },
   {
     "name": "和田机场(Hotan)",
+    "chinese_name": "和田机场",
     "iata_code": "HTN",
     "icao_code": "ZWTN",
     "location": "和田"
   },
   {
     "name": "南充机场(Nanchong)",
+    "chinese_name": "南充机场",
     "iata_code": "NAO",
     "icao_code": "ZUNC",
     "location": "南充"
   },
   {
     "name": "柳州机场(Bailian)",
+    "chinese_name": "柳州机场",
     "iata_code": "LZH",
     "icao_code": "ZGZH",
     "location": "柳州"
   },
   {
     "name": "长三角国际空港昆山物流中心机场(Kunshan International Airport (Kunshan South))",
+    "chinese_name": "长三角国际空港昆山物流中心机场)",
     "iata_code": "KHL",
     "icao_code": "",
     "location": "昆山"
   },
   {
     "name": "南昌昌北国际机场(Nanchang Changbei International Airport)",
+    "chinese_name": "南昌昌北国际机场",
     "iata_code": "KHN",
     "icao_code": "ZSCN",
     "location": "南昌"
   },
   {
     "name": "泸州机场(Luzhou)",
+    "chinese_name": "泸州机场",
     "iata_code": "LZO",
     "icao_code": "ZULZ",
     "location": "泸州"
   },
   {
     "name": "花土沟机场(Huatugou Airport)",
+    "chinese_name": "花土沟机场",
     "iata_code": "HTT",
     "icao_code": "",
     "location": "花土沟镇"
   },
   {
     "name": "北京南苑机场(Beijing Nanyuan)",
+    "chinese_name": "北京南苑机场",
     "iata_code": "NAY",
     "icao_code": "ZBBB",
     "location": "北京"
   },
   {
     "name": "林芝米林机场(Mainling/Milin)",
+    "chinese_name": "林芝米林机场",
     "iata_code": "LZY",
     "icao_code": "ZUNZ",
     "location": "林芝"
   },
   {
     "name": "荔波机场(Libo)",
+    "chinese_name": "荔波机场",
     "iata_code": "LLB",
     "icao_code": "",
     "location": "荔波"
   },
   {
     "name": "长白山机场(Changbaishan)",
+    "chinese_name": "长白山机场",
     "iata_code": "NBS",
     "icao_code": "",
     "location": "长白山"
   },
   {
     "name": "霍林郭勒机场(Huolinhe)",
+    "chinese_name": "霍林郭勒机场",
     "iata_code": "HUO",
     "icao_code": "",
     "location": "霍林郭勒"
   },
   {
     "name": "凯里黄平机场(Kaili-Huangping Airport)",
+    "chinese_name": "凯里黄平机场",
     "iata_code": "KJH",
     "icao_code": "",
     "location": "黄平"
   },
   {
     "name": "喀纳斯机场(Kanas)",
+    "chinese_name": "喀纳斯机场",
     "iata_code": "KJI",
     "icao_code": "",
     "location": "布尔津"
   },
   {
     "name": "零陵机场(Lingling)",
+    "chinese_name": "零陵机场",
     "iata_code": "LLF",
     "icao_code": "ZGLG",
     "location": "永州"
   },
   {
     "name": "贵阳龙洞堡国际机场(Guiyang Longdongbao International Airport)",
+    "chinese_name": "贵阳龙洞堡国际机场",
     "iata_code": "KWE",
     "icao_code": "ZUGY",
     "location": "贵阳"
   },
   {
     "name": "南通兴东机场(Nantong Xingdong Airport)",
+    "chinese_name": "南通兴东机场",
     "iata_code": "NTG",
     "icao_code": "",
     "location": "南通"
   },
   {
     "name": "惠州机场(Huizhou)",
+    "chinese_name": "惠州机场",
     "iata_code": "HUZ",
     "icao_code": "ZGHZ",
     "location": "惠州"
   },
   {
     "name": "桂林两江国际机场(Guilin Liangjiang International Airport)",
+    "chinese_name": "桂林两江国际机场",
     "iata_code": "KWL",
     "icao_code": "ZGKL",
     "location": "桂林"
   },
   {
     "name": "陆良机场(Luliang)",
+    "chinese_name": "陆良机场",
     "iata_code": "LLV",
     "icao_code": "",
     "location": "陆良"
   },
   {
     "name": "齐齐哈尔三家子机场(Qiqihar Sanjiazi Airport)",
+    "chinese_name": "齐齐哈尔三家子机场",
     "iata_code": "NDG",
     "icao_code": "ZYQQ",
     "location": "齐齐哈尔"
   },
   {
     "name": "宁波栎社国际机场(Ningbo Lishe International Airport)",
+    "chinese_name": "宁波栎社国际机场",
     "iata_code": "NGB",
     "icao_code": "ZSNB",
     "location": "宁波"
   },
   {
     "name": "武陵山机场(Wulingshan)",
+    "chinese_name": "武陵山机场",
     "iata_code": "QIA",
     "icao_code": "",
     "location": "黔江"
   },
   {
     "name": "临沧机场(Lincang)",
+    "chinese_name": "临沧机场",
     "iata_code": "LNJ",
     "icao_code": "ZPLC",
     "location": "临沧"
   },
   {
     "name": "阿里昆莎机场(Ngari Gunsa/Ali Kunsha)",
+    "chinese_name": "阿里昆莎机场",
     "iata_code": "NGQ",
     "icao_code": "ZUAL",
     "location": "狮泉河"
   },
   {
     "name": "牡丹江海浪机场(Mudanjiang Hailang Airport)",
+    "chinese_name": "牡丹江海浪机场",
     "iata_code": "MDG",
     "icao_code": "ZYMD",
     "location": "牡丹江"
   },
   {
     "name": "六盘水月照机场(Liupanshui Yuezhao Airport)",
+    "chinese_name": "六盘水月照机场",
     "iata_code": "LPF",
     "icao_code": "",
     "location": "六盘水"
   },
   {
     "name": "北京首都国际机场(Beijing Capital International Airport)",
+    "chinese_name": "北京首都国际机场",
     "iata_code": "PEK",
     "icao_code": "ZBAA",
     "location": "北京"
   },
   {
     "name": "扎兰屯成吉思汗机场(Zhalantun genghis khan)",
+    "chinese_name": "扎兰屯成吉思汗机场",
     "iata_code": "NZL",
     "icao_code": "",
     "location": "扎兰屯"
   },
   {
     "name": "赤龙嘴呢机场(Chilonzuine  Island)",
+    "chinese_name": "赤龙嘴呢机场",
     "iata_code": "NZU",
     "icao_code": "",
     "location": "赤龙嘴呢岛"
   },
   {
     "name": "南京禄口国际机场(Nanjing Lukou International Airport)",
+    "chinese_name": "南京禄口国际机场",
     "iata_code": "NKG",
     "icao_code": "ZSNJ",
     "location": "南京"
   },
   {
     "name": "泸沽湖机场(Luguhu Airport)",
+    "chinese_name": "泸沽湖机场",
     "iata_code": "NLH",
     "icao_code": "",
     "location": "宁蒗"
   },
   {
     "name": "上海浦东国际机场(Shanghai Pudong International Airport)",
+    "chinese_name": "上海浦东国际机场",
     "iata_code": "PVG",
     "icao_code": "ZSPD",
     "location": "上海"
   },
   {
     "name": "喀纳斯机场(Kanas  Airport)",
+    "chinese_name": "喀纳斯机场",
     "iata_code": "RQI",
     "icao_code": "",
     "location": "布尔津市"
   },
   {
     "name": "南宁吴圩国际机场(Nanning Wuxu International Airport)",
+    "chinese_name": "南宁吴圩国际机场",
     "iata_code": "NNG",
     "icao_code": "ZGNN",
     "location": "南宁"
   },
   {
     "name": "绵阳机场(Mianyang)",
+    "chinese_name": "绵阳机场",
     "iata_code": "MIG",
     "icao_code": "",
     "location": "绵阳"
   },
   {
     "name": "南阳机场(Nanyang)",
+    "chinese_name": "南阳机场",
     "iata_code": "NNY",
     "icao_code": "ZHNY",
     "location": "南阳"
   },
   {
     "name": "古莲机场(Gulian)",
+    "chinese_name": "古莲机场",
     "iata_code": "OHE",
     "icao_code": "ZYMH",
     "location": "漠河"
   },
   {
     "name": "上海虹桥国际机场(Shanghai Hongqiao International Airport)",
+    "chinese_name": "上海虹桥国际机场",
     "iata_code": "SHA",
     "icao_code": "",
     "location": "上海"
   },
   {
     "name": "沈阳桃仙国际机场(Shenyang Taoxian International Airport)",
+    "chinese_name": "沈阳桃仙国际机场",
     "iata_code": "SHE",
     "icao_code": "ZYTX",
     "location": "沈阳"
   },
   {
     "name": "花园机场(Huayuan)",
+    "chinese_name": "花园机场",
     "iata_code": "SHF",
     "icao_code": "",
     "location": "石河子"
   },
   {
     "name": "北京大兴国际机场(Beijing Daxing International Airport)",
+    "chinese_name": "北京大兴国际机场",
     "iata_code": "PKX",
     "icao_code": "ZBAD",
     "location": "北京"
   },
   {
     "name": "山海关机场(Shanhaiguan)",
+    "chinese_name": "山海关机场",
     "iata_code": "SHP",
     "icao_code": "ZBSH",
     "location": "秦皇岛"
   },
   {
     "name": "沙市机场(Shashi)",
+    "chinese_name": "沙市机场",
     "iata_code": "SHS",
     "icao_code": "ZHSS",
     "location": "沙市"
   },
   {
     "name": "鄯善机场(Shanshan)",
+    "chinese_name": "鄯善机场",
     "iata_code": "SXJ",
     "icao_code": "ZWSS",
     "location": "鄯善"
   },
   {
     "name": "如皋机场(Rugao)",
+    "chinese_name": "如皋机场",
     "iata_code": "RUG",
     "icao_code": "ZSRG",
     "location": "如皋"
   },
   {
     "name": "梅州梅县机场(MeiXian Airport)",
+    "chinese_name": "梅州梅县机场",
     "iata_code": "MXZ",
     "icao_code": "ZGMX",
     "location": "梅县"
   },
   {
     "name": "巴丹吉林通勤机场(Alxa Right Banner)",
+    "chinese_name": "巴丹吉林通勤机场",
     "iata_code": "RHT",
     "icao_code": "",
     "location": "右旗巴丹"
   },
   {
     "name": "思茅机场(Simao)",
+    "chinese_name": "思茅机场",
     "iata_code": "SYM",
     "icao_code": "ZPSM",
     "location": "思茅"
   },
   {
     "name": "芜湖湾里机场(wuhu wanli)",
+    "chinese_name": "芜湖湾里机场",
     "iata_code": "UHU",
     "icao_code": "ZSWU",
     "location": "芜湖"
   },
   {
     "name": "三亚凤凰国际机场(Sanya Phoenix International Airport)",
+    "chinese_name": "三亚凤凰国际机场",
     "iata_code": "SYX",
     "icao_code": "ZJSY",
     "location": "三亚"
   },
   {
     "name": "日照山字河国际机场(Rizhao Shanzihe International Airport)",
+    "chinese_name": "日照山字河国际机场",
     "iata_code": "RIZ",
     "icao_code": "",
     "location": "日照"
   },
   {
     "name": "贵阳龙洞堡国际机场(Guiyang Longdongbao International Airport)",
+    "chinese_name": "贵阳龙洞堡国际机场",
     "iata_code": "UIY",
     "icao_code": "ZUGY",
     "location": "贵阳"
   },
   {
     "name": "石家庄正定国际机场(Shijiazhuang Zhengding International Airport)",
+    "chinese_name": "石家庄正定国际机场",
     "iata_code": "SJW",
     "icao_code": "ZBSJ",
     "location": "石家庄"
   },
   {
     "name": "榆林机场(Yulin)",
+    "chinese_name": "榆林机场",
     "iata_code": "UYN",
     "icao_code": "ZLYL",
     "location": "榆林"
   },
   {
     "name": "苏州光福机场(Guangfu)",
+    "chinese_name": "苏州光福机场",
     "iata_code": "SZV",
     "icao_code": "ZSSZ",
     "location": "苏州"
   },
   {
     "name": "天津滨海国际机场(Tianjin Binhai International Airport)",
+    "chinese_name": "天津滨海国际机场",
     "iata_code": "TSN",
     "icao_code": "ZBTJ",
     "location": "天津"
   },
   {
     "name": "十堰武当山机场(Shiyan Wudangshan Airport)",
+    "chinese_name": "十堰武当山机场",
     "iata_code": "WDS",
     "icao_code": "ZHSY",
     "location": "十堰"
   },
   {
     "name": "沙河口机场(Shahekou Airport)",
+    "chinese_name": "沙河口机场",
     "iata_code": "PNJ",
     "icao_code": "",
     "location": "蓬莱"
   },
   {
     "name": "青岛流亭国际机场(Qingdao Liuting International Airport)",
+    "chinese_name": "青岛流亭国际机场",
     "iata_code": "TAO",
     "icao_code": "ZSQD",
     "location": "青岛"
   },
   {
     "name": "潍坊南苑机场(Weifang nanyuan)",
+    "chinese_name": "潍坊南苑机场",
     "iata_code": "WEF",
     "icao_code": "ZSWF",
     "location": "潍坊"
   },
   {
     "name": "威海国际机场(Weihai Dashuibo Airport)",
+    "chinese_name": "威海国际机场",
     "iata_code": "WEH",
     "icao_code": "ZSWH",
     "location": "威海"
   },
   {
     "name": "日喀则和平机场(Shigatse Peace Airport)",
+    "chinese_name": "日喀则和平机场",
     "iata_code": "RKZ",
     "icao_code": "",
     "location": "日喀则"
   },
   {
     "name": "巴彦淖尔天吉泰机场(Tianjitai)",
+    "chinese_name": "巴彦淖尔天吉泰机场",
     "iata_code": "RLK",
     "icao_code": "ZBYZ",
     "location": "巴彦淖尔市"
   },
   {
     "name": "塔城机场(Tacheng)",
+    "chinese_name": "塔城机场",
     "iata_code": "TCG",
     "icao_code": "ZWTC",
     "location": "塔城"
   },
   {
     "name": "乌鲁木齐地窝堡国际机场(Urumchi Diwobao International Airport)",
+    "chinese_name": "乌鲁木齐地窝堡国际机场",
     "iata_code": "UMQ",
     "icao_code": "ZWWW",
     "location": "乌鲁木齐"
   },
   {
     "name": "驼峰机场(Tuofeng)",
+    "chinese_name": "驼峰机场",
     "iata_code": "TCZ",
     "icao_code": "ZUTC",
     "location": "腾冲"
   },
   {
     "name": "三女河机场(Sannuhe)",
+    "chinese_name": "三女河机场",
     "iata_code": "TVS",
     "icao_code": "ZBTS",
     "location": "唐山"
   },
   {
     "name": "昆明长水国际机场(Kunming Changshui International Airport)",
+    "chinese_name": "昆明长水国际机场",
     "iata_code": "UNM",
     "icao_code": "ZPPP",
     "location": "昆明"
   },
   {
     "name": "芜湖宣城机场(Wuhu xuancheng)",
+    "chinese_name": "芜湖宣城机场",
     "iata_code": "WHU",
     "icao_code": "ZSWU",
     "location": "芜湖"
   },
   {
     "name": "武夷山机场(Wuyishan Airport)",
+    "chinese_name": "武夷山机场",
     "iata_code": "WUS",
     "icao_code": "ZSWY",
     "location": "武夷山"
   },
   {
     "name": "忻州五台山机场(Xinzhou Wutaishan Airport)",
+    "chinese_name": "忻州五台山机场",
     "iata_code": "WUT",
     "icao_code": "",
     "location": "忻州"
   },
   {
     "name": "无锡苏南硕放国际机场(Sunan Shuofang International Airport)",
+    "chinese_name": "无锡苏南硕放国际机场",
     "iata_code": "WUX",
     "icao_code": "ZSWX",
     "location": "无锡"
   },
   {
     "name": "梧州长洲岛机场(wuzhou Changzhoudao)",
+    "chinese_name": "梧州长洲岛机场",
     "iata_code": "WUZ",
     "icao_code": "ZGWZ",
     "location": "梧州"
   },
   {
     "name": "洛阳机场(LuoYang Airport)",
+    "chinese_name": "洛阳机场",
     "iata_code": "UOY",
     "icao_code": "ZHLY",
     "location": "洛阳"
   },
   {
     "name": "黄山屯溪机场(Tunxi Airport)",
+    "chinese_name": "黄山屯溪机场",
     "iata_code": "TXN",
     "icao_code": "ZSTX",
     "location": "黄山"
   },
   {
     "name": "铜仁凤凰机场(Tongren Fenghuang Airport)",
+    "chinese_name": "铜仁凤凰机场",
     "iata_code": "TEN",
     "icao_code": "ZUTR",
     "location": "铜仁"
   },
   {
     "name": "乌鲁木齐地窝堡国际机场(Urumchi Diwobao International Airport)",
+    "chinese_name": "乌鲁木齐地窝堡国际机场",
     "iata_code": "URC",
     "icao_code": "ZWWW",
     "location": "乌鲁木齐"
   },
   {
     "name": "太原武宿国际机场(Taiyuan Wusu International Airport)",
+    "chinese_name": "太原武宿国际机场",
     "iata_code": "TYN",
     "icao_code": "ZBYN",
     "location": "太原"
   },
   {
     "name": "万州五桥机场(Wanzhou Wuqiao Airport)",
+    "chinese_name": "万州五桥机场",
     "iata_code": "WXN",
     "icao_code": "ZUWX",
     "location": "万州"
   },
   {
     "name": "厦门高崎国际机场(Xiamen Gaoqi International Airport)",
+    "chinese_name": "厦门高崎国际机场",
     "iata_code": "XMN",
     "icao_code": "ZSAM",
     "location": "厦门"
   },
   {
     "name": "通辽机场(Tongliao)",
+    "chinese_name": "通辽机场",
     "iata_code": "TGO",
     "icao_code": "ZBTL",
     "location": "通辽"
   },
   {
     "name": "西宁曹家堡机场(Xining Caojiabu Airport)",
+    "chinese_name": "西宁曹家堡机场",
     "iata_code": "XNN",
     "icao_code": "ZLXN",
     "location": "西宁"
   },
   {
     "name": "邢台机场(Xingtai)",
+    "chinese_name": "邢台机场",
     "iata_code": "XNT",
     "icao_code": "ZBXT",
     "location": "邢台"
   },
   {
     "name": "乌拉特中旗通用机场(Urad Middle Banner)",
+    "chinese_name": "乌拉特中旗通用机场",
     "iata_code": "WZQ",
     "icao_code": "",
     "location": "乌拉特中旗"
   },
   {
     "name": "麦积山机场(Maijishan)",
+    "chinese_name": "麦积山机场",
     "iata_code": "THQ",
     "icao_code": "ZLTS",
     "location": "天水"
   },
   {
     "name": "三明沙县机场(Sanming Shaxian Airport)",
+    "chinese_name": "三明沙县机场",
     "iata_code": "SQJ",
     "icao_code": "ZSZM",
     "location": "三明"
   },
   {
     "name": "文山普者黑机场(Wenshan puzhehei Airport)",
+    "chinese_name": "文山普者黑机场",
     "iata_code": "WNH",
     "icao_code": "",
     "location": "文山"
   },
   {
     "name": "乌兰察布集宁机场(Ulanqab Tsining Airport)",
+    "chinese_name": "乌兰察布集宁机场",
     "iata_code": "UCB",
     "icao_code": "",
     "location": "乌兰察布"
   },
   {
     "name": "运城关公机场(Guangong)",
+    "chinese_name": "运城关公机场",
     "iata_code": "YCU",
     "icao_code": "ZBYC",
     "location": "运城"
   },
   {
     "name": "温州龙湾国际机场(Wenzhou Longwan International Airport)",
+    "chinese_name": "温州龙湾国际机场",
     "iata_code": "WNZ",
     "icao_code": "ZSWZ",
     "location": "温州"
   },
   {
     "name": "扬州泰州国际机场(YANGZHOU TAIZHOU INTERNATIONAL AIRPORT)",
+    "chinese_name": "扬州泰州国际机场",
     "iata_code": "YTY",
     "icao_code": "",
     "location": "扬州"
   },
   {
     "name": "元谋机场(Yuanmou)",
+    "chinese_name": "元谋机场",
     "iata_code": "YUA",
     "icao_code": "",
     "location": "元谋"
   },
   {
     "name": "玉树巴塘机场(Batang)",
+    "chinese_name": "玉树巴塘机场",
     "iata_code": "YUS",
     "icao_code": "ZYLS",
     "location": "玉树"
   },
   {
     "name": "兴城机场(Xingcheng)",
+    "chinese_name": "兴城机场",
     "iata_code": "XEN",
     "icao_code": "ZYXC",
     "location": "兴城"
   },
   {
     "name": "襄樊机场(Xiangfan)",
+    "chinese_name": "襄樊机场",
     "iata_code": "XFN",
     "icao_code": "ZHXF",
     "location": "襄樊"
   },
   {
     "name": "吐鲁番机场(Jiaohe  Airport)",
+    "chinese_name": "吐鲁番机场",
     "iata_code": "TLQ",
     "icao_code": "",
     "location": "吐鲁番"
   },
   {
     "name": "徐州观音国际机场(Xuzhou GuanYin International Airport)",
+    "chinese_name": "徐州观音国际机场",
     "iata_code": "XUZ",
     "icao_code": "ZSXZ",
     "location": "徐州"
   },
   {
     "name": "济南遥墙国际机场(Jinan Yaoqiang International Airport)",
+    "chinese_name": "济南遥墙国际机场",
     "iata_code": "TNA",
     "icao_code": "ZSJN",
     "location": "济南"
   },
   {
     "name": "通化三源浦机场(Tonghua Sanyuanpu Airport)",
+    "chinese_name": "通化三源浦机场",
     "iata_code": "TNH",
     "icao_code": "ZYTN",
     "location": "通化"
   },
   {
     "name": "西昌青山机场(xichang Qingshan)",
+    "chinese_name": "西昌青山机场",
     "iata_code": "XIC",
     "icao_code": "ZUXC",
     "location": "西昌"
   },
   {
     "name": "锡林浩特机场(Xilinhot)",
+    "chinese_name": "锡林浩特机场",
     "iata_code": "XIL",
     "icao_code": "ZBXH",
     "location": "锡林浩特"
   },
   {
     "name": "兴宁机场(Xingning)",
+    "chinese_name": "兴宁机场",
     "iata_code": "XIN",
     "icao_code": "ZGXN",
     "location": "兴宁"
   },
   {
     "name": "揭阳潮汕国际(汕头)机场(Jieyang Chaoshan International Airport)",
+    "chinese_name": "揭阳潮汕国际机场",
     "iata_code": "SWA",
     "icao_code": "ZGOW",
     "location": "揭阳"
   },
   {
     "name": "张家口机场(Zhangjiakou)",
+    "chinese_name": "张家口机场",
     "iata_code": "ZQZ",
     "icao_code": "",
     "location": "张家口"
   },
   {
     "name": "宜春明月山机场(Yichun Mingyueshan Airport)",
+    "chinese_name": "宜春明月山机场",
     "iata_code": "YIC",
     "icao_code": "ZSYC",
     "location": "宜春"
   },
   {
     "name": "乌海机场(Wuhai)",
+    "chinese_name": "乌海机场",
     "iata_code": "WUA",
     "icao_code": "ZBUH",
     "location": "乌海"
   },
   {
     "name": "阿尔山伊尔施机场(AERSHAN YIERSHI AIPPORT)",
+    "chinese_name": "阿尔山伊尔施机场",
     "iata_code": "YIE",
     "icao_code": "",
     "location": "阿尔山"
   },
   {
     "name": "宜昌机场(Yichang)",
+    "chinese_name": "宜昌机场",
     "iata_code": "YIH",
     "icao_code": "ZHYC",
     "location": "宜昌"
   },
   {
     "name": "武汉天河国际机场(Wuhan Tianhe International Airport)",
+    "chinese_name": "武汉天河国际机场",
     "iata_code": "WUH",
     "icao_code": "ZHHH",
     "location": "武汉"
   },
   {
     "name": "昭通机场(Zhaotong)",
+    "chinese_name": "昭通机场",
     "iata_code": "ZAT",
     "icao_code": "ZPZT",
     "location": "昭通"
   },
   {
     "name": "伊宁机场(Yining)",
+    "chinese_name": "伊宁机场",
     "iata_code": "YIN",
     "icao_code": "ZWYN",
     "location": "伊宁"
   },
   {
     "name": "义乌机场(Yiwu)",
+    "chinese_name": "义乌机场",
     "iata_code": "YIW",
     "icao_code": "ZSYW",
     "location": "义乌"
   },
   {
     "name": "珠海机场(Zhuhai)",
+    "chinese_name": "珠海机场",
     "iata_code": "ZUH",
     "icao_code": "ZGSD",
     "location": "珠海"
   },
   {
     "name": "赤龙嘴呢岛机场(Chilonzuine)",
+    "chinese_name": "赤龙嘴呢岛机场",
     "iata_code": "ZUI",
     "icao_code": "",
     "location": "赤龙嘴呢岛"
   },
   {
     "name": "宜宾机场(Yibin)",
+    "chinese_name": "宜宾机场",
     "iata_code": "YBP",
     "icao_code": "ZUYB",
     "location": "宜宾"
   },
   {
     "name": "营口兰旗机场(YINGKOU LANQI AIRPORT)",
+    "chinese_name": "营口兰旗机场",
     "iata_code": "YKH",
     "icao_code": "ZYYK",
     "location": "营口"
   },
   {
     "name": "兰州机场(Zhongchuan (Lanzhou West))",
+    "chinese_name": "兰州机场)",
     "iata_code": "ZGC",
     "icao_code": "ZLLL",
     "location": "兰州"
   },
   {
     "name": "湛江机场(Zhanjiang Airport)",
+    "chinese_name": "湛江机场",
     "iata_code": "ZHA",
     "icao_code": "ZGZJ",
     "location": "湛江"
   },
   {
     "name": "遵义新舟机场(Zunyi Xinzhou Airport)",
+    "chinese_name": "遵义新舟机场",
     "iata_code": "ZYI",
     "icao_code": "ZUZY",
     "location": "遵义"
   },
   {
     "name": "中卫沙坡头机场(Xiangshan)",
+    "chinese_name": "中卫沙坡头机场",
     "iata_code": "ZHY",
     "icao_code": "ZLZW",
     "location": "中卫"
   },
   {
     "name": "延吉朝阳川机场(Yanji Chaoyangchuan Airport)",
+    "chinese_name": "延吉朝阳川机场",
     "iata_code": "YNJ",
     "icao_code": "ZYYJ",
     "location": "延吉"
   },
   {
     "name": "烟台莱山国际机场(Yantai Lanshang Airport)",
+    "chinese_name": "烟台莱山国际机场",
     "iata_code": "YNT",
     "icao_code": "ZSYT",
     "location": "烟台"
   },
   {
     "name": "盐城南洋国际机场(Yencheng Nanyang Airport)",
+    "chinese_name": "盐城南洋国际机场",
     "iata_code": "YNZ",
     "icao_code": "ZSYN",
     "location": "盐城"
   },
   {
     "name": "琼海博鳌机场(Qionghai Boao Airport)",
+    "chinese_name": "琼海博鳌机场",
     "iata_code": "BAR",
     "icao_code": "ZJQH",
     "location": "琼海"
